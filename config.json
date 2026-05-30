@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smssalidate",
+        "uuid": 2609299,
+        "checksum": "aclc64"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
